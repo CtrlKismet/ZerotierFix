@@ -22,6 +22,7 @@
 - Self-hosted Moon Support
 - Add custom planet config via file and URL
 - View peers list
+- Quick Settings Tile for fast connect/disconnect
 - Chinese translation
 
 ## Download
@@ -48,4 +49,5 @@ original author is Grant Limberg (glimberg@gmail.com). See [AUTHORS.md](https://
 - [x] Support planet config
 - [x] Replace pre-built JNI library
 - [x] Rewrite & update UI to fit Material Design
+- [x] Add Quick Settings Tile
 - [ ] *WIP* Rewrite whole APP in v2
